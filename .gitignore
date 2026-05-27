@@ -3,3 +3,7 @@ __pycache__/
 *.pyo
 data/autosave/
 outputs/
+dist/
+build/
+*.zip
+*.spec
